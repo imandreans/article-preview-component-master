@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/imandreans/article-preview-component-master)
-- Live Site URL: [Live site](https://imandreans.github.io/article-preview-component-master/)
+- [Solution](https://github.com/imandreans/article-preview-component-master)
+- [Live site](https://imandreans.github.io/article-preview-component-master/)
 
 ## My process
 
